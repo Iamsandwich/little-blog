@@ -1,0 +1,89 @@
+html {
+    background-color: rgb(197, 199, 247);
+    background-image: "IMG/wallpaper1.jpg";
+}
+
+.topmenu{
+    text-align: center;
+    z-index: 2;
+    position: fixed;
+    background-color: rgb(95, 102, 120);
+    width: 100vw;
+    height: 2.5rem;
+    
+}
+
+.topmenu button{
+    background-color: rgb(179, 192, 223);
+    border-radius: none;
+    margin: auto;
+    margin-top: 0.3rem;
+    
+}
+
+.topmenu a{
+    font-size: 140%;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: rgb(41, 63, 80);
+}
+
+.pages {
+    margin: auto;
+ text-align: center;
+}
+
+.pages button{
+ background-color:  rgb(197, 199, 247);
+ margin: 2%;
+ font-size: 1.5em;
+}
+
+.pages button:hover{
+ background-color:  rgb(109, 111, 157);
+ color: white;
+}
+
+
+.pages a{
+    
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: rgb(41, 63, 80);
+}
+
+.container{
+    display: block;
+    margin: auto;
+    padding-top: 3rem;
+    max-width: 55%;
+    min-width: 28em;
+}
+
+.post{
+    position: relative;
+    border-color: rgb(156, 179, 221);
+    border-width: 2px;
+    border-style: groove;
+    border-radius: 6px;
+    background-color: azure;
+    
+    padding: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1.3rem;
+
+}
+
+.date{
+    font-style: italic;
+    margin-top: 1rem;
+    color: rgb(118, 126, 150);
+}
+
+.link{
+    font-style: italic;
+   text-decoration: none;
+   color: rgb(99, 93, 153);
+}
