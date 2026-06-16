@@ -87,3 +87,8 @@ html {
    text-decoration: none;
    color: rgb(99, 93, 153);
 }
+
+.picture img{
+    margin: 0.2vw;
+    width: 10vw;
+}
