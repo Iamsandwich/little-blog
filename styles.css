@@ -1,7 +1,12 @@
 html {
     background-color: rgb(197, 199, 247);
-    background-image: "IMG/wallpaper1.jpg";
+    background-image: url(IMG/wallpaper2.png);
+    background-position-x: 50vw;
+    background-size: 100%;
+    
 }
+
+
 
 .topmenu{
     text-align: center;
@@ -57,7 +62,7 @@ html {
 .container{
     display: block;
     margin: auto;
-    padding-top: 3rem;
+    padding-top: 7rem;
     max-width: 55%;
     min-width: 28em;
 }
@@ -91,4 +96,10 @@ html {
 .picture img{
     margin: 0.2vw;
     width: 10vw;
+}
+
+.moving img{
+    height: 5vw;
+    margin: 0.2em;
+    margin-top: 1em;
 }
