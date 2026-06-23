@@ -103,3 +103,9 @@ html {
     margin: 0.2em;
     margin-top: 1em;
 }
+
+h3{
+   text-decoration: underline;
+   color: rgb(112, 109, 138);
+   font-size: 50%;
+}
