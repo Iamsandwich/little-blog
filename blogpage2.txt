@@ -1,0 +1,17 @@
+
+<div class="post">
+    Ah, it works??? 
+    <br> <br>
+    But now my pages are txt's, how do I work prettier with them?...
+    <div class="date">26.06.26, 19:46</div>
+</div>
+
+
+<div class="post">
+    Test test, testing page function
+    <div class="date">26.06.26, 19:40</div>
+</div>
+
+
+
+

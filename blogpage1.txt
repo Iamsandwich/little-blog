@@ -1,54 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Little blog</title>
-<link rel="stylesheet" href="styles.css">
-
-</head>
-<body>
-    
-<div class="topmenu">
-    <script src="changepages.js"></script>
-    <button onclick="load1()">Main page</button>
-    <a href="#top"><button>Top of the page</button></a>
-    <marquee class="moving" direction="right">
-        <a href="IMG/cheese.png"><img src="IMG/cheese.png" alt="do it for cheese"></a>
-        <a href="IMG/weiner.jpg"><img src="IMG/weiner.jpg" alt="brother i have weiner"></a>
-        <a href="IMG/snickels.jpg"><img src="IMG/snickels.jpg" alt="really satisfies"></a>
-        <a href="IMG/googoo.png"><img src="IMG/googoo.png" alt="sir googoo"></a>
-        <a href="IMG/im balling.png"><img src="IMG/im balling.png" alt="AM BALLIN"></a>
-        <a href="IMG/hamsterg.jpg"><img src="IMG/hamsterg.jpg" alt="hamsterg"></a>
-        <a href="IMG/its him the ъуъ.webp"><img src="IMG/its him the ъуъ.webp" alt="the ъуъ"></a>
-        <a href="IMG/is it worth it.png"><img src="IMG/is it worth it.png" alt="eat the charmanderr"></a>
-        <a href="IMG/spoon cat.jpg"><img src="IMG/spoon cat.jpg" alt="spoon caaat!!!!!"></a>
-        <a href="IMG/pov you seed.png"><img src="IMG/pov you seed.png" alt="pov you are the seed"></a>
-        <a href="IMG/pigeon rent.png"><img src="IMG/pigeon rent.png" alt="rich pigeon"></a>
-        <a href="http://sammycharacters.netlify.app/"><img src="IMG/character-website-stamp-anim.gif" alt="Sammy character website stamp!!!!!!"></a>
-        <a  href="https://www.deviantart.com/lolface1"><img src="IMG/deviant-art-stamp.gif" alt="DA page stamp"></a>
-        <a  href="https://www.tumblr.com/ibetyouareweird"><img src="IMG/tumblr-stamp.gif" alt="Tumblr page stamp"></a>
-        <a  href="https://iamsandwich.itch.io/dimentions"><img src="IMG/little-videogame-stamp.gif" alt="my little walking sim game"></a>
-        <a  href="https://icecreams-decorate.netlify.app/"><img src="IMG/icecream-stamp.gif" alt="Icecream game website!"></a>
-        <a href="https://fishyforfleam.netlify.app/"><img src="img/fishy-stamp.gif" alt="fishy page stamp!"></a>
-        <a href="https://artfight.net/~Iamsandwich"><img src="img/artfight-stamp.gif" alt="artfight page stamp!"></a>
-        <a href="https://skeletonproject.netlify.app/"><img src="img/Project-skeletons-stamp.gif" alt="Skeleton project stamp!!"></a>
-        <a href="https://youtu.be/ElVxZ2l427s?list=RDElVxZ2l427s"><img src="img/garfield-enjoyer-stamp.gif" alt="garfwave"></a>
-    </marquee>
-</div>
-
-<div class="container">
-<script src="changepages.js"></script>
-
-<div class="pages">
-   
-   <button onclick="load1()">1</button>
-   <button onclick="load2()">2</button>
-   <button onclick="load3()">3</button>
-
-</div>
-
- 
-<div id="content">
-
 <div class="post">
    <img src="IMG/idea tag.png" alt="idea post" style="width: 8%;"> <br>
     
@@ -409,10 +358,3 @@
     <div class="date">14.06.26, late night</div>
 </div>
 
-
-
-</div>
-</div>
-
-</body>
-</html>
