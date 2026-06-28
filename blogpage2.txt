@@ -1,5 +1,89 @@
 
 <div class="post">
+I added more stuff to the Skeleton page, I'll have to add loop and shuffle
+later to the music player when I figure it out better in the duck one.
+<br><br>
+The loop on the duck does work, and it has a volume slider, which I think
+I'll want for the skeleton page. But I don't wanna copy that over yet.
+
+<div class="date">28.06.26, 17.49</div>
+</div>
+
+
+<div class="post">
+    Welcome to my wonderful <a class="link" href="https://duckproject.netlify.app/">duck project.</a>
+    <br><br>
+    The loop and shuffle icons have been drawn on the vaio!
+    The animated spinning loop button was altered in photoshop, though.
+    <br><br>
+    Still need to implement the shuffle, add more music and work
+    on the duck images and noises
+    <br><br>
+    For the <a class="link" href="https://skeletonproject.netlify.app/">skeleton project</a> I'll need 
+    more skeletons, music, secrets and 
+    of course I'll need the skeleworker of the month page.
+
+    <div class="date">28.06.26, 15:37</div>
+</div>
+
+<div class="post">
+
+Got it! Added another language 
+via XKB configuration manager 
+(at first just set it to russian with no way to switch), 
+then using Group Shift/Lock Behaviour found the line 
+«grp:alt_shift_toggle Alt+Shift»
+
+<div class="date">27.06.26, 13:01</div>
+</div>
+
+
+<div class="post">
+The plumbers actually arrived, when I was at the gym. Of course they did! But thankfully mom was at home specifically to wait for them.
+
+<br><br>
+I rushed home, the toilet they took out looks great, 
+but it had to be broken off at the connection with the old pipe, 
+so it isnt useable anymore, of course. That is why we had to buy a new one in advance.
+<br><br>
+I am trying to use the laptop as a big ole PDA machine.
+ I think despite me having some hard times with it 
+ (like when it decides to turn the screen completely off for no good reason, 
+ or the fact i still can only boot it from a flash drive, which is technically 
+ how you're supposed to do that, but still doesn”t seem very comfy to me...) 
+ It actually answers mostof my list that I wrote prior, about what i”d need from a PDA.
+
+<br><br>
+As glitchy and strange as it is, 
+it has an autosave feature, it seems to at least 
+partially hold charge, especially on the lowest dimness 
+(so dim wow, actually great for late-night sitting, I tried!), 
+it has a form of tables I can use for my own stuffs, 
+it has multiple image and text editors and a very barebone browser, 
+that sadly seems to be harsh on it. Maybe it needs older web pages? 
+But I even tried pages I made myself, and they still don”t load up. 
+But that could be due to netlify stuffs.
+<br><br>
+I am currently writing this on the laptop! 
+Not in code, this is just a text file i'll have to 
+load into a flash drive and move over to the visual studio, 
+I don't think I can get it to work here? I'll have to see what I can download 
+on my normal laptop or pc, and install here via USB, maybe that's the more proper 
+way to do this.
+<br><br>
+In any case, the keyboard here is actually very pleasant. 
+It's small, but so are my little hands, 
+so it's quite comfortable. 
+Only trouble it seems to replace the apostrophe with quotes (it”s), 
+which is annoying. How can I fix that?...
+<br><br>
+Another problem is lack of any ability to change the text to russian, 
+which means no notes or web searches in it, lol.
+
+<div class="date">27.06.26, 11:37</div>
+</div>
+
+<div class="post">
     Ah, it works??? 
     <br> <br>
     But now my pages are txt's, how do I work prettier with them?...
