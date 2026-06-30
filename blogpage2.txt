@@ -1,3 +1,125 @@
+<div class="post">
+1. The reason Risk of Rain glitched on
+the ipad is literally it just being .ogg file.
+<br><br>
+I converted it to mp3, all is well.
+<br><br>
+2. I can watch videos on the Vaio at an extremely
+low bitrate and resolution, if i stretch it to about
+postcard size. CPU runs at like 80%, and the fans kick in
+hard, but it's doable. 
+<br><br>
+Listening to music works better tho.
+Let's not atually make it a multimedia
+machine for now. Just text, tables, maybe playing
+with simple html. Relax. Draw pixel art.
+
+<div class="date">30.06.26, 21:51</div>
+</div>
+
+
+<div class="post">
+<img src="IMG/idea tag.png" alt="idea post" style="width: 8%;"> <br>
+Idea: <br>
+Make a website that stores pictiures of
+g1 mlp toys and alongside the sewn toys I made.
+
+<br><br>
+Idea: make a website that simulates
+having a kind boss...
+
+<div class="date">30.06.26, 21:19</div>
+</div>
+
+<div class="post">
+<img src="IMG/idea tag.png" alt="idea post" style="width: 8%;"> <br>
+
+Idea: do an or condition where 
+code checks if audio time at its max 
+(as in, audio ended) even if the slider doesn’t 
+work properly, force it to go to next song when 
+audio is over. Maybe that will help?
+
+<div class="date">29.06.26, 23:49</div>
+</div>
+
+
+<div class="post">
+I added more music to the duck! 
+but more importantly, it now has a shuffle 
+button that works!! yayyyy!! 
+<br><br>
+Also I made it so the playlist loops 
+at the end (even when it’s not shuffled), 
+just so I can have background music at all 
+times when the website is on.
+<br><br>
+On the ipad there’s two glitches: <br>
+1. sometimes, but not every time, 
+the volume icon phases in and out every second 
+(same as rate of updating volume function), and <br>
+2. The music often doesn’t know it reached the end. 
+As in, the slider doesn’t go to the very end of itself, 
+which breaks the functionality of automatically 
+playing the next track. But that shouldn’t be 
+possible, right? Because on audio loading in, 
+it tracks the size of the slider based on song length. <br>
+<br>
+The glitch also does not apply when loop is on 
+(audio loops just fine bc its a built-in function). 
+So it is about setting the length of the slider.
+<br><br>
+So, on the ipad i have to use a VPN for netlify 
+websites. What if the audio doesn’t properly 
+load in? Maybe i should check for audio length 
+more often in the code?? Like not just on load-in? 
+I need to experiment. Maybe I need some kind of API 
+or something? Preload data???
+
+<div class="date">29.06.26, 23:19</div>
+</div>
+
+<div class="post">
+Reducing the audio bitrate doesn’t seem 
+to yield noticeable results, and the videos 
+feel nicer with better sound. 
+<br><br>
+It’s time to admit the videos are not going 
+to be very doable. But what about music?
+
+<div class="date">29.06.26, 12:18</div>
+</div>
+
+<div class="post">
+This darn thing doesn't want to play videos properly,
+ the mp4-s lag. Sooooo, I’ll try to convert the video 
+ to other formats.
+<br><br>
+Here’s some that I have tried: <br>
+AVI - same as MP4 <br>
+MKV - same as MP4 <br>
+FLV - same as MP4 <br>
+OGV -  much laggier and crunchier than the MP4 <br>
+MP4, (VIDEO FOR IPOD SD), 
+320x180 - it’s much better now!! (CPU heavy anyways)<br>
+MP4, 500 bitrate video, 75 audio - 
+about the same as the default Ipod SD mode. 
+(CPU heavy anyways) <br><br>
+
+MP4, lower res, based on Ipod SD mode 
+- whoops i stretched it, heh. But it 
+certainly is better. Sad that still the CPU suffers, 
+but the framerate is good. How make CPU suffer less???? 
+what do,,,,,,
+
+<div class="date">28.06.26, 22:39</div>
+</div>
+
+
+
+
+
+
 
 <div class="post">
 I added more stuff to the Skeleton page, I'll have to add loop and shuffle
@@ -7,6 +129,18 @@ The loop on the duck does work, and it has a volume slider, which I think
 I'll want for the skeleton page. But I don't wanna copy that over yet.
 
 <div class="date">28.06.26, 17.49</div>
+</div>
+
+<div class="post">
+Sadly, watching videos on the Vaio is simply 
+impossible, unless im missing something very important, 
+making any mp4 video (no matter the resolution 
+of the file) any bigger than a matchbox lags the 
+system greatly, the video becomes a slideshow. 
+<br><br>
+Should I try different file formats?
+
+<div class="date">28.06.26, 16:52 </div>
 </div>
 
 
