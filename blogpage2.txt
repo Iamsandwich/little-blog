@@ -1,3 +1,134 @@
+
+<div class="post">
+Oogy boogy, I finished the slime girl attack!
+<br>
+Fleam asked me to draw her some stuffs too, so I'll try
+doing that today.
+<br>
+She bought me No Man's Sky today, although
+first time the code was used whoops hahahah
+<br>
+<a class="picture" href="img/Jess the slime girl for artfight.jpg"><img src="img/Jess the slime girl for artfight.jpg"></img></a>
+<a class="picture" href="img/Long-stamp-fastest-in-the-west.gif"><img src="img/Long-stamp-fastest-in-the-west.gif"></img></a>
+
+<div class="date">04.07.26, 17:47 </div>
+</div>
+
+
+<div class="post">
+<img src="IMG/idea tag.png" alt="idea post" style="width: 8%;"> <br>
+   
+IDEA
+Need a website for my artfight stuffs<br>
+Music making thing for the vaio maybe?? Even barebone<br>
+Make a cute VLC skin? 
+(finish spingle bab?? Make a geigerish one??
+ when artfight is done or im on break lol)<br>
+
+<div class="date">03.07.26, 22:18</div>
+</div>
+
+<div class="post">
+<img src="IMG/listtag.png" alt="list post" style="width: 8%;"> <br>
+   
+Todo for Artfight:<br>
+Finish the slime girl +<br>
+Maybe start the centaur <br>
+Find more characters to draw <br>
+The jestah, kill jestah.
+
+<br><br>
+Skeleton website:<br>
+More skeletons<br>
+More dumb links <br>
+More spooky songs
+
+<br><br>
+For duck:<br>
+More chill music<br>
+Rain on umbrella sounds<br>
+Calming bowls sounds<br>
+Forest ambiance<br>
+Birds singing
+
+
+<div class="date">03.27.26, 22:15</div>
+</div>
+
+<div class="post">
+For the past few days I have been attacking on artfight!
+<br><br>
+So far I have 7 attacks published, yay!! 
+People are saying I am very fast. I do see others 
+attacking on the website, though. Not a single attack 
+on me yet! I hope they have badges for being productive 
+or for not being attacked very much.
+<br><br>
+
+I ordered and picked up new charging cables! 
+The pink one is very pretty and the 3 meter 
+black one is amazing. If it works well, 
+I’ll order a spare. It’s awesome.
+<br><br>
+
+The network switch also came in, 
+but I think I don’t need it :< 
+<br> Nobody online did good explaining 
+and nobody I asked knows. So I ordered a router as well,
+ tomorrow or the day after I’ll pick it up 
+ (when it arrives ofc) and try to test both, 
+ to see what happens. 
+ 
+ <br><br>Then after I figure that one out I’ll 
+ return whatever I don’t need and order another 
+ router for one of the rooms. Ours are all so ollllddd.
+
+<br><br>
+<a class="picture" href="IMG/More spooky songs artfight.jpg"><img src="IMG/More spooky songs artfight.jpg"></img></a>
+<a class="picture" href="img/Beri for artfight.jpg"><img class="picture" src="img/Beri for artfight.jpg"></img></a>
+<a class="picture" href="img/Charlotte for Artfight.jpg"><img class="picture" src="img/Charlotte for Artfight.jpg"></img></a>
+<a class="picture" href="img/Puggles for artfight.jpg"><img class="picture" src="img/Puggles for artfight.jpg"></img></a>
+<a class="picture" href="img/Tully for artfight.jpg"><img class="picture" src="img/Tully for artfight.jpg"></img></a>
+<a class="picture" href="img/Sticks and his friend for artfight.jpg"><img class="picture" src="img/Sticks and his friend for artfight.jpg"></img></a>
+
+
+<div class="date">03.07.26, 22:06 </div>
+</div>
+
+<div class="post">
+Artfight should start today evening. 
+I was warned there might be server-wise 
+crashes due to that. So I’m playing it safe - 
+I saved some references and made some screenshots
+ of the character permissions. That way I can start 
+ drawing today. <br/>If I’m feeling alright, 
+ and don’t have way too much stuffs to do today, 
+ maybe I can get a couple drawings in already!
+ <br><br>
+ Just making sure I don’t start early....
+
+<div class="date">1.07.26, 13:53 </div>
+</div>
+
+<div class="post">
+<img src="IMG/listtag.png" alt="list post" style="width: 8%;"> <br>
+
+Todo list: <br>
+1. Add music from Fleam to the Skeleton page <br>
+2. Add separate volume sliders for Duck soundscapes 
+(The rain is much louder than train noises, sad!) +
+(styled them differently from big sound slider too)<br>
+3. Add icons to soundscapes  + <br>
+4. Darken icons when they are not in use 
+(to indicate which ones are on and which are off) +<br>
+5. More skeletons, including secret ones <br>
+6. Look for honse Love, add her to the ref char page! +
+
+
+<div class="date">1.07.26, 10:55, Edited 1.07.26, 13:52. </div>
+</div>
+
+
 <div class="post">
 1. The reason Risk of Rain glitched on
 the ipad is literally it just being .ogg file.
@@ -29,6 +160,16 @@ Idea: make a website that simulates
 having a kind boss...
 
 <div class="date">30.06.26, 21:19</div>
+</div>
+
+<div class="post">
+Watching low quality videos or typing while listening to
+music on Vaio isn't that bad, really. Maybe I can
+make little chill cozy playlists with music
+for it. And dupe it to 
+<a class="link" href="https://duckproject.netlify.app/"> the Duck web page! </a>
+
+<div class="date">30.06.26, 00:08 </div>
 </div>
 
 <div class="post">
