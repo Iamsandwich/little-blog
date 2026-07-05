@@ -1,5 +1,18 @@
 
 <div class="post">
+Yesterday I finished another attack, but today I'm 
+unwell, so I only made the stamp for Fleam's youtube channel link
+<br><br>
+I also drew her the picture she wanted yesterday!
+<br><br>
+<a class="picture" href="img/Artfight pigment in his art studio.webp"><img src="img/Artfight pigment in his art studio.webp"></img></a>
+<a class="picture" href="img/hatter and hare.webp"><img src="img/hatter and hare.webp"></img></a>
+<a class="picture" href="img/Long-stamp-purple-Fleam-channel.gif"><img src="img/Long-stamp-purple-Fleam-channel.gif"></img></a>
+
+<div class="date">05.07.26, 14:39 </div>
+</div>
+
+<div class="post">
 Oogy boogy, I finished the slime girl attack!
 <br>
 Fleam asked me to draw her some stuffs too, so I'll try
@@ -7,7 +20,7 @@ doing that today.
 <br>
 She bought me No Man's Sky today, although
 first time the code was used whoops hahahah
-<br>
+<br><br>
 <a class="picture" href="img/Jess the slime girl for artfight.jpg"><img src="img/Jess the slime girl for artfight.jpg"></img></a>
 <a class="picture" href="img/Long-stamp-fastest-in-the-west.gif"><img src="img/Long-stamp-fastest-in-the-west.gif"></img></a>
 
@@ -88,7 +101,7 @@ and nobody I asked knows. So I ordered a router as well,
 <a class="picture" href="img/Beri for artfight.jpg"><img class="picture" src="img/Beri for artfight.jpg"></img></a>
 <a class="picture" href="img/Charlotte for Artfight.jpg"><img class="picture" src="img/Charlotte for Artfight.jpg"></img></a>
 <a class="picture" href="img/Puggles for artfight.jpg"><img class="picture" src="img/Puggles for artfight.jpg"></img></a>
-<a class="picture" href="img/Secret door pony for artfight.jpg"><img class="picture" src="Secret door pony for artfight.jpg"></img></a>
+<a class="picture" href="img/Secret door pony for artfight.jpg"><img class="picture" src="img/Secret door pony for artfight.jpg"></img></a>
 
 <a class="picture" href="img/Tully for artfight.jpg"><img class="picture" src="img/Tully for artfight.jpg"></img></a>
 <a class="picture" href="img/Sticks and his friend for artfight.jpg"><img class="picture" src="img/Sticks and his friend for artfight.jpg"></img></a>
