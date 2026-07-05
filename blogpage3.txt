@@ -1,5 +1,7 @@
 <div class="post">
+Feeling unwell, making stamps.
+<br><br>
+<a target="_blank" class="picture" href="img/microplastics-stamp.gif"><img src="img/microplastics-stamp.gif"></img></a>
 
-
-<div class="date"> </div>
+<div class="date">05.07.26, 16:59</div>
 </div>
