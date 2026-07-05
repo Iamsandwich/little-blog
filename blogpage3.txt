@@ -1,4 +1,16 @@
 <div class="post">
+Finished two pieces woa
+<br><br>
+<a target="_blank" class="picture" href="img/Soren the unicorn centaur artfight.jpg"><img src="img/Soren the unicorn centaur artfight.jpg"></img></a>
+<a target="_blank" class="picture" href="img/temperance holo horse artfight.jpg"><img src="img/temperance holo horse artfight.jpg"></img></a>
+<a target="_blank" class="picture" href="img/long-stamp-feeling-unwell.gif"><img src="img/long-stamp-feeling-unwell.gif"></img></a>
+
+
+<div class="date">05.07.26, 16:59</div>
+</div>
+
+
+<div class="post">
 Feeling unwell, making stamps.
 <br><br>
 <a target="_blank" class="picture" href="img/microplastics-stamp.gif"><img src="img/microplastics-stamp.gif"></img></a>
