@@ -1,0 +1,34 @@
+<div class="post">
+This is a page to store links to not lose them!<br>
+The links that have stamps will feature them.
+<br><br>
+
+        <a target="_blank" href="http://sammycharacters.netlify.app/"><img src="IMG/character-website-stamp-anim.gif" alt="Sammy character website stamp!!!!!!"></a>
+        <a target="_blank" href="https://www.deviantart.com/lolface1"><img src="IMG/deviant-art-stamp.gif" alt="DA page stamp"></a>
+        <a target="_blank" href="https://www.tumblr.com/ibetyouareweird"><img src="IMG/tumblr-stamp.gif" alt="Tumblr page stamp"></a>
+        <a target="_blank" href="https://iamsandwich.itch.io/dimentions"><img src="IMG/little-videogame-stamp.gif" alt="my little walking sim game"></a>
+        <a target="_blank" href="https://icecreams-decorate.netlify.app/"><img src="IMG/icecream-stamp.gif" alt="Icecream game website!"></a>
+        <a target="_blank" href="https://fishyforfleam.netlify.app/"><img src="img/fishy-stamp.gif" alt="fishy page stamp!"></a>
+        <a target="_blank" href="https://artfight.net/~Iamsandwich"><img src="img/artfight-stamp.gif" alt="artfight page stamp!"></a>
+        <a target="_blank" href="https://skeletonproject.netlify.app/"><img src="img/Project-skeletons-stamp.gif" alt="Skeleton project stamp!!"></a>
+        <a target="_blank" href="https://youtu.be/ElVxZ2l427s?list=RDElVxZ2l427s"><img src="img/garfield-enjoyer-stamp.gif" alt="garfwave"></a>
+        <a target="_blank" href="https://duckproject.netlify.app/"><img src="img/duck-enjoyer-stamp.gif" alt="Duck project stamp!!"></a>
+        <a target="_blank" href="https://www.youtube.com/@speedweed683"><img src="img/Long-stamp-purple-Fleam-channel.gif" alt="Fleambo youtube stamp love love"></a>
+
+<br><br>
+    <a target="_blank" class="link" href="https://printablegoodiesforfleam.netlify.app/">Printable goodies for Fleam birthday</a> <br>
+    <a target="_blank" class="link" href="https://fleambo20252026newyear.netlify.app/">Fleam new year with baubles</a> <br>
+    <a target="_blank" class="link" href="https://fleamgift2024.netlify.app/">Fleam gift with cards</a> <br>
+    <a target="_blank" class="link" href="https://present-for-fleam.netlify.app/">Fleam valentines with the kitty</a> <br>
+    <a target="_blank" class="link" href="http://valentinesday2026fleambo.netlify.app/">Fleam valentines with drawings and sweets</a> <h3>The valentines with sweets has suggestive poses and partial nudity!!!!</h3> 
+    <a target="_blank" class="link" href="https://sammydevblog.netlify.app/">My dev blog</a> <br>
+    <a target="_blank" class="link" href="https://littlesammyblog.netlify.app/">This blog</a> <br>
+    <a target="_blank" class="link" href="https://sammyphotos.netlify.app/">My photo blog</a> <br>
+    <a target="_blank" class="link" href="https://lavalamplol.netlify.app/">My lavalamp project</a> <br>
+    <a target="_blank" class="link" href="https://littleroom.netlify.app/">Little Harvest and Devious room website </a> <br>
+    <a target="_blank" class="link" href="https://landauportfolio.netlify.app/">My personal portfolio (so far unfinished)</a><br>
+    <a target="_blank" class="link" href="https://landaumuseum.netlify.app/">My virtual museum</a>
+    
+
+
+</div>

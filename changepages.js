@@ -30,3 +30,50 @@ function load3() {
   xhttp.open("GET", "blogpage3.txt", true);
   xhttp.send();
 };
+
+function load4() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "blogpage4.txt", true);
+  xhttp.send();
+};
+
+
+
+
+function loadlinks() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "Linkspage.txt", true);
+  xhttp.send();
+};
+
+function loadstamps() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "Stamppage.txt", true);
+  xhttp.send();
+};
+
+function loadmemes() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "Memepage.txt", true);
+  xhttp.send();
+};

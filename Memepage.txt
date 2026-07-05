@@ -1,0 +1,61 @@
+<div class="post">
+This is a place to store memes I save!
+<br>
+Because the marquee at the top can get overloaded.
+<br>
+Fleampy, I hope you like some of these! (some Fleam showed me!!)
+<br><br>
+
+<a class="picture" target="_blank" href="img/cheese.png"><img src="img/cheese.png"></img></a>
+<a class="picture" target="_blank" href="IMG/weiner.jpg"><img src="IMG/weiner.jpg"></img></a>
+<a class="picture" target="_blank" href="IMG/snickels.jpg"><img src="IMG/snickels.jpg"></img></a>
+<a class="picture" target="_blank" href="IMG/googoo.png"><img src="IMG/googoo.png"></img></a>
+<a class="picture" target="_blank" href="IMG/im balling.png"><img src="IMG/im balling.png"></img></a>
+<a class="picture" target="_blank" href="IMG/hamsterg.jpg"><img src="IMG/hamsterg.jpg"></img></a>
+<a class="picture" target="_blank" href="IMG/its him the ъуъ.webp"><img src="IMG/its him the ъуъ.webp"></img></a>
+<a class="picture" target="_blank" href="IMG/is it worth it.png"><img src="IMG/is it worth it.png"></img></a>
+<a class="picture" target="_blank" href="IMG/spoon cat.jpg"><img src="IMG/spoon cat.jpg"></img></a>
+<a class="picture" target="_blank" href="IMG/pov you seed.png"><img src="IMG/pov you seed.png"></img></a>
+<a class="picture" target="_blank" href="IMG/pigeon rent.png"><img src="IMG/pigeon rent.png"></img></a>
+<a class="picture" target="_blank" href="img/yoink card.webp"><img src="img/yoink card.webp"></img></a>
+<a class="picture" target="_blank" href="img/just no.webp"><img src="img/just no.webp"></img></a>
+<a class="picture" target="_blank" href="img/fishzoi.gif"><img src="img/fishzoi.gif"></img></a>
+<a class="picture" target="_blank" href="img/i may be stupid emperor.webp"><img src="img/i may be stupid emperor.webp"></img></a>
+<a class="picture" target="_blank" href="img/fuckin lemin.gif"><img src="img/fuckin lemin.gif"></img></a>
+<a class="picture" target="_blank" href="img/morning alarms.webp"><img src="img/morning alarms.webp"></img></a>
+<a class="picture" target="_blank" href="img/goobly eyed.jpg"><img src="img/goobly eyed.jpg"></img></a>
+<a class="picture" target="_blank" href="img/evil air conditioner.jpg"><img src="img/evil air conditioner.jpg"></img></a>
+<a class="picture" target="_blank" href="img/hulk clap.jpg"><img src="img/hulk clap.jpg"></img></a>
+<a class="picture" target="_blank" href="img/weekend funny.png"><img src="img/weekend funny.png"></img></a>
+<a class="picture" target="_blank" href="img/fanta stick.jpg"><img src="img/fanta stick.jpg"></img></a>
+<a class="picture" target="_blank" href="img/microplastics.jpg"><img src="img/microplastics.jpg"></img></a>
+<a class="picture" target="_blank" href="img/iced coffee.jpg"><img src="img/iced coffee.jpg"></img></a>
+<a class="picture" target="_blank" href="img/i love u.png"><img src="img/i love u.png"></img></a>
+<a class="picture" target="_blank" href="img/mentally im there.jpg"><img src="img/mentally im there.jpg"></img></a>
+<a class="picture" target="_blank" href="img/fresh fry.jpg"><img src="img/fresh fry.jpg"></img></a>
+<a class="picture" target="_blank" href="img/why he do that.jpg"><img src="img/why he do that.jpg"></img></a>
+<a class="picture" target="_blank" href="img/larry.jpg"><img src="img/larry.jpg"></img></a>
+<a class="picture" target="_blank" href="img/alien.jpg"><img src="img/alien.jpg"></img></a>
+<a class="picture" target="_blank" href="img/i may be stupid kitten.jpg"><img src="img/i may be stupid kitten.jpg"></img></a>
+<a class="picture" target="_blank" href="img/no ears.jpg"><img src="img/no ears.jpg"></img></a>
+<a class="picture" target="_blank" href="img/touch forehead.jpg"><img src="img/touch forehead.jpg"></img></a>
+<a class="picture" target="_blank" href="img/cat on desk.jpg"><img src="img/cat on desk.jpg"></img></a>
+<a class="picture" target="_blank" href="img/normal picture.png"><img src="img/normal picture.png"></img></a>
+<a class="picture" target="_blank" href="img/dinosaurs.jpg"><img src="img/dinosaurs.jpg"></img></a>
+<a class="picture" target="_blank" href="img/hand man.jpg"><img src="img/hand man.jpg"></img></a>
+<a class="picture" target="_blank" href="img/yoda dies.jpg"><img src="img/yoda dies.jpg"></img></a>
+<a class="picture" target="_blank" href="img/bad flounder.jpg"><img src="img/bad flounder.jpg"></img></a>
+<a class="picture" target="_blank" href="img/sleeping loose.jpg"><img src="img/sleeping loose.jpg"></img></a>
+<a class="picture" target="_blank" href="img/it wasnt supposed to.jpg"><img src="img/it wasnt supposed to.jpg"></img></a>
+<a class="picture" target="_blank" href="img/ducking mad.jpg"><img src="img/ducking mad.jpg"></img></a>
+<a class="picture" target="_blank" href="img/i act silly.jpg"><img src="img/i act silly.jpg"></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+
+</div>
