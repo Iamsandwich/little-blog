@@ -1,4 +1,33 @@
 <div class="post">
+<img src="img/listtag.png" alt="list tag" style="width: 8%;">
+<br>
+- Make stamps for my comics <br>
+- Make more funny memey stamps <br>
+- Download some smooth jazz for the laptop and the Duck <br>
+- Add more memes to the meme storage
+
+
+<div class="date">07.70.26, 10:33</div>
+</div>
+
+
+<div class="post">
+Yesterday I managed to do plenty of useful stuff,
+including returning the network switch and setting up a new router,
+then switching out a bad router for a good one that has been our main 
+one, from which all the net was branching into the rooms.
+<br><br>
+Managed to get 2 attacks in, despite being unwell.
+Also went out to get snacks, and payed some services, yay!
+<br><br>
+
+<a target="_blank" class="picture" href="img/Leche artfight.jpg"><img src="img/Leche artfight.jpg"></img></a>
+<a target="_blank" class="picture" href="img/Macha artfight attack.jpg"><img src="img/Macha artfight attack.jpg"></img></a>
+
+<div class="date">07.07.26, 10:26 </div>
+</div>
+
+<div class="post">
 Finished two pieces woa
 <br><br>
 <a target="_blank" class="picture" href="img/Soren the unicorn centaur artfight.jpg"><img src="img/Soren the unicorn centaur artfight.jpg"></img></a>
