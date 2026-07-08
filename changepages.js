@@ -77,3 +77,14 @@ function loadmemes() {
   xhttp.open("GET", "Memepage.txt", true);
   xhttp.send();
 };
+
+function memepage2() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "Memepage2.txt", true);
+  xhttp.send();
+};

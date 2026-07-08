@@ -1,0 +1,60 @@
+<div class="post">
+This is a place to store memes I save!
+<br>
+Because the marquee at the top can get overloaded.
+<br>
+Fleampy, I hope you like some of these! (some Fleam showed me!!)
+<br><br>
+This is the second page<br><br>
+
+<a class="picture" target="_blank" href="img/oh god karl and bill.webp"><img src="img/oh god karl and bill.webp"></img></a>
+<a class="picture" target="_blank" href="img/god damn.webp"><img src="img/god damn.webp"></img></a>
+<a class="picture" target="_blank" href="img/stop with summer.webp"><img src="img/stop with summer.webp"></img></a>
+<div class="warning">
+    <a class="picture" target="_blank" href="img/flashy sausage gif from startreck.gif">
+      <div class="waningmsg"> Careful, flashy </div>
+      <img src="img/flashy sausage preview.png"></img>
+    </a>
+</div>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href=""><img src=""></img></a>
+
+
+<br><br>
+<button class="memebuttons" onclick="loadmemes()">memes page 1</button>
+<button class="memebuttons" onclick="memepage2()">memes page 2</button>
+</div>

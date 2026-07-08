@@ -39,13 +39,13 @@ html {
  text-align: center;
 }
 
-.pages button{
+.pages button, .memebuttons{
  background-color:  rgb(197, 199, 247);
  margin: 2%;
  font-size: 1.5em;
 }
 
-.pages button:hover{
+.pages button:hover, .memebuttons::hover{
  background-color:  rgb(109, 111, 157);
  color: white;
 }
@@ -173,4 +173,33 @@ h3{
   100% {
    left: 0; 
   }
+}
+
+
+
+
+.blurredimg{
+  filter:blur(10px);
+  
+}
+
+.warning{
+  color: rgb(255, 255, 255);
+}
+
+.waningmsg{
+  display: inline-block;
+  text-align: center;
+  position: absolute;
+  font-size: 1.5vw;
+  font-weight: 700;
+  margin: 0.5vw;
+  margin-top:1.5vw;
+  text-shadow: 2px 0px 2px black;
+  text-decoration: none;
+  color: white;
+}
+
+.memebuttons{
+  font-size: 1em;
 }

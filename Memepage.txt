@@ -49,13 +49,29 @@ Fleampy, I hope you like some of these! (some Fleam showed me!!)
 <a class="picture" target="_blank" href="img/it wasnt supposed to.jpg"><img src="img/it wasnt supposed to.jpg"></img></a>
 <a class="picture" target="_blank" href="img/ducking mad.jpg"><img src="img/ducking mad.jpg"></img></a>
 <a class="picture" target="_blank" href="img/i act silly.jpg"><img src="img/i act silly.jpg"></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-
+<a class="picture" target="_blank" href="img/petasan.webp"><img src="img/petasan.webp"></img></a>
+<a class="picture" target="_blank" href="img/its armadillo.webp"><img src="img/its armadillo.webp"></img></a>
+<a class="picture" target="_blank" href="img/cat.webp"><img src="img/cat.webp"></img></a>
+<a class="picture" target="_blank" href="img/togore.webp"><img src="img/togore.webp"></img></a>
+<a class="picture" target="_blank" href="img/screaming begins.webp"><img src="img/screaming begins.webp"></img></a>
+<a class="picture" target="_blank" href="img/just rat schematic.webp"><img src="img/just rat schematic.webp"></img></a>
+<a class="picture" target="_blank" href="img/japanese kfc.webp"><img src="img/japanese kfc.webp"></img></a>
+<a class="picture" target="_blank" href="img/anime is just cats.webp"><img src="img/anime is just cats.webp"></img></a>
+<a class="picture" target="_blank" href="img/big biden.webp"><img src="img/big biden.webp"></img></a>
+<a class="picture" target="_blank" href="img/stinky.webp"><img src="img/stinky.webp"></img></a>
+<a class="picture" target="_blank" href="img/nyoooooooooo.webp"><img src="img/nyoooooooooo.webp"></img></a>
+<a class="picture" target="_blank" href="img/mc crispy.webp"><img src="img/mc crispy.webp"></img></a>
+<a class="picture" target="_blank" href="img/fentanyl.webp"><img src="img/fentanyl.webp"></img></a>
+<a class="picture" target="_blank" href="img/hobbit cats.webp"><img src="img/hobbit cats.webp"></img></a>
+<a class="picture" target="_blank" href="img/bird documentaries.webp"><img src="img/bird documentaries.webp"></img></a>
+<a class="picture" target="_blank" href="img/the wizard must be stopped.webp"><img src="img/the wizard must be stopped.webp"></img></a>
+<a class="picture" target="_blank" href="img/need for fart.webp"><img src="img/need for fart.webp"></img></a>
+<a class="picture" target="_blank" href="img/sealamp.webp"><img src="img/sealamp.webp"></img></a>
+<a class="picture" target="_blank" href="img/hannibal kitty.webp"><img src="img/hannibal kitty.webp"></img></a>
+<a class="picture" target="_blank" href="img/ames doesnt know.webp"><img src="img/ames doesnt know.webp"></img></a>
+<a class="picture" target="_blank" href="img/delete your cookies.webp"><img src="img/delete your cookies.webp"></img></a>
+<a class="picture" target="_blank" href="img/im sensetrive.webp"><img src="img/im sensetrive.webp"></img></a>
+<br><br>
+<button class="memebuttons" onclick="loadmemes()">memes page 1</button>
+<button class="memebuttons" onclick="memepage2()">memes page 2</button>
 </div>
