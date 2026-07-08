@@ -18,6 +18,8 @@ Otherwise it's just decorational.
         <img src="img/Long-stamp-fastest-in-the-west.gif" alt="fasterst artist in the west stamp">
         <img src="img/microplastics-stamp.gif" alt="microplastics stamp"></img>
         <img src="img/long-stamp-feeling-unwell.gif"></img>
+        <a target="_blank" href="https://www.webtoons.com/en/canvas/the-monster-the-monk/list?title_no=505666"><img src="img/The-monster-and-the-monk-comic-stamp.gif" alt="The monster and the monk stamp yaay"></a>
+        <a target="_blank" href="https://www.webtoons.com/en/canvas/idiotadventures/list?title_no=1141981"><img src="img/idiot-adventure-comic-stamp.gif" alt="Idiot adventure stamp!"></a>
 
 
 </div>
