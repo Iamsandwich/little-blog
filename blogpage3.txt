@@ -1,3 +1,19 @@
+<div class="post">
+Yesterday I finally finished that big ole piece with the scales, 
+it was a little challenging to get all the details in their spots there.
+<br><br>
+Today I want to make an artstation stamp and maybe play some 
+No Man’s Sky, maybe take care of my back a bit.
+<br><br>
+I should add more music to the Duck, 
+and more skeletons to the Skeleton Project too!
+
+<br><br>
+<a class="picture" target="_blank" href="img/Artfight gemstone attack.jpg"><img src="img/Artfight gemstone attack.jpg"></img></a>
+
+<div class="date">09.07.27, 10:47</div>
+</div>
+
 
 <div class="post">
 Wooooooooo working on a hard artfight piece (because the character is a very detailed dragon thing),
