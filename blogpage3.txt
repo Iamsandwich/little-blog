@@ -1,5 +1,15 @@
 
 <div class="post">
+Okay okay MEMES FOR NOW!
+<br><br>
+<a class="picture" target="_blank" href="img/Yodadies-stamp.gif" alt="Yodadies-stamp"><img src="img/Yodadies-stamp.gif"></img></a>
+<a class="picture" target="_blank" href="img/frensh-fry-stamp.gif" alt="frensh-fry-stamp"><img src="img/frensh-fry-stamp.gif"></img></a>
+
+<div class="date">13.07.26, 22:25</div>
+</div>
+
+
+<div class="post">
 Artstation stamo!! Want to make some sakura stamps now, woo.
 <br><br>
 <a class="picture" target="_blank" href="img/Artstation-stamp.gif" alt="Artstation stamp"><img src="img/Artstation-stamp.gif"></img></a>
