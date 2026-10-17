@@ -1,0 +1,8 @@
+<div class="post">
+
+<div class="video">Stepmania and Glass Masquearade <iframe width="560" height="315" src="https://www.youtube.com/embed/l-q6KEbBKaM?si=krlLaERA-aVWYxC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video">Badly playing Stepmania <iframe width="560" height="315" src="https://www.youtube.com/embed/pt56m6m-EPE?si=748vyA1LvqPVc4Qe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video">Watching Fleam Stream, testing PNGtuber <iframe width="560" height="315" src="https://www.youtube.com/embed/StdLUY-XCcs?si=VpwuFgANFevGAtVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video">More Glass Masquearade <iframe width="560" height="315" src="https://www.youtube.com/embed/DnrSbjETSZM?si=pMwXSYojOyoz3QKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+</div>

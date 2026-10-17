@@ -56,6 +56,9 @@ function load5() {
 
 
 
+
+
+
 function loadlinks() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
@@ -97,5 +100,16 @@ function memepage2() {
     }
   };
   xhttp.open("GET", "Memepage2.txt", true);
+  xhttp.send();
+};
+
+function loadvideos() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("content").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "videospage.txt", true);
   xhttp.send();
 };

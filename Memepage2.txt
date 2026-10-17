@@ -16,27 +16,28 @@ This is the second page<br><br>
       <img src="img/flashy sausage preview.png"></img>
     </a>
 </div>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
-<a class="picture" target="_blank" href=""><img src=""></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/hard yarn.png"><img src="img/MemesPage2/hard yarn.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/blooming.png"><img src="img/MemesPage2/blooming.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/mistakes.jpg"><img src="img/MemesPage2/mistakes.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/bird sounds.jpg"><img src="img/MemesPage2/bird sounds.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/lazy eagle.jpg"><img src="img/MemesPage2/lazy eagle.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/bald bird.jpg"><img src="img/MemesPage2/bald bird.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/crows cute.jpg"><img src="img/MemesPage2/crows cute.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/big af.png"><img src="img/MemesPage2/big af.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/sashemi.png"><img src="img/MemesPage2/sashemi.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/fent shrimp.webp"><img src="img/MemesPage2/fent shrimp.webp"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/dumbo in glass.webp"><img src="img/MemesPage2/dumbo in glass.webp"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/jonny testickle.png"><img src="img/MemesPage2/jonny testickle.png"></img></a>
+
+<video controls class="picture" style="width: 50%" src="img/MemesPage2/sixsevenlel.mov"></video>
+
+<a class="picture" target="_blank" href="img/MemesPage2/horrid darling.jpg"><img src="img/MemesPage2/horrid darling.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/destroyed.png"><img src="img/MemesPage2/destroyed.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/kill them.png"><img src="img/MemesPage2/kill them.png"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/ball spoon.jpg"><img src="img/MemesPage2/ball spoon.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/safe hardly.jpg"><img src="img/MemesPage2/safe hardly.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/happy pride.jpg"><img src="img/MemesPage2/happy pride.jpg"></img></a>
+<a class="picture" target="_blank" href="img/MemesPage2/cat mesh.jpg"><img src="img/MemesPage2/cat mesh.jpg"></img></a>
 <a class="picture" target="_blank" href=""><img src=""></img></a>
 <a class="picture" target="_blank" href=""><img src=""></img></a>
 <a class="picture" target="_blank" href=""><img src=""></img></a>
