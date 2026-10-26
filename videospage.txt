@@ -6,6 +6,10 @@
 <div class="video">More Glass Masquearade <iframe width="560" height="315" src="https://www.youtube.com/embed/DnrSbjETSZM?si=pMwXSYojOyoz3QKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <div class="video">Badly playing Stepmania 2 <iframe width="560" height="315" src="https://www.youtube.com/embed/JtmBJeSlMgM?si=pd3r9MKQ9aKH_ZgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <div class="video">TW:Arachnophobia, testing PNGtuber, watching Fleam stream minecarft <iframe width="560" height="315" src="https://www.youtube.com/embed/iA7aVPcsmQs?si=4WSe7J1ISum7huw9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video">TW:Arachnophobia, Playing Stepmania badly 21_10_26 <iframe width="560" height="315" src="https://www.youtube.com/embed/Du65DeOBjmY?si=fK6cbl2Mj7ADU7pY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video">TW:Arachnophobia, Playing Stepmania badly 26_10_26 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJpytNwzmbg?si=G7AmsrIU8jHrBmvD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
 
 </div></div>
 
